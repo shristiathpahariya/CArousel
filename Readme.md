@@ -26,8 +26,8 @@ Ensure you have the following installed:
    ```bash
    git clone <repository-url>
    cd <repository-folder>
-   Open the project folder and locate the index.html file.
    ```
+Open the project folder and locate the index.html file.
 
 Use a Live Server to preview the carousel:
 
