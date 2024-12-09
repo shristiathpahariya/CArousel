@@ -79,26 +79,3 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 #License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
----
-
-### Steps to Upload to Your Git Repository
-
-1. **Create a Git Repository (if not already created):**
-
-   - Navigate to your GitHub account.
-   - Create a new repository and give it a name (e.g., `Vertical-Carousel`).
-
-2. **Add the README.md to Your Project Folder:**
-
-   - Save the above README content as `README.md` in your project folder.
-
-3. **Push the Project to GitHub:**
-   Open your terminal, navigate to your project folder, and run the following commands:
-   ```bash
-   git init  # Initialize git in your project (if not already initialized)
-   git add .  # Add all files to the staging area
-   git commit -m "Initial commit with vertical carousel"  # Commit the files
-   git branch -M main  # Ensure the main branch is used
-   git remote add origin <repository-url>  # Replace <repository-url> with your repo URL
-   git push -u origin main  # Push your project to GitHub
-   ```
