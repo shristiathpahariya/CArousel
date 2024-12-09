@@ -76,6 +76,5 @@ Redesign the carousel for better usability on smaller screens.
 Contribution
 Contributions are welcome! Please feel free to submit pull requests or open issues for suggestions or bugs.
 
-#License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+## License
+This project is licensed under the MIT License
